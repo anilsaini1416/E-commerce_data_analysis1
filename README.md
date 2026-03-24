@@ -36,7 +36,7 @@ A map of sales across different states and cities.
 
 <img width="1720" height="838" alt="Screenshot 2026-03-24 103823" src="https://github.com/user-attachments/assets/057ce6a6-3851-43dc-81e0-b26defa5af64" />
 
-"You can download and view the Power BI file (.pbix) from this repository to explore the full dashboard."
+[**Download Power BI Dashboard (.pbix)**](https://github.com/anilsaini1416/E-commerce_data_analysis1/blob/main/e-commerce_data_analysis_deshboard.pbix)
 
 ## What did I learn?
 
