@@ -51,9 +51,9 @@ Check the e-commerce_data_analysis.ipynb file to see my Python code.
 Look at the Dashboard Screenshot to see the final results.
 
 ## Contact: 
+If you have any questions or would like to discuss this project, feel free to reach out!
 
-Anil Saini | BCA Student & Data Analyst
+Name: [Anil Saini]
 
-**Email:** [anilsaini978571@gmail.com](mailto:anilsaini978571@gmail.com) 
-| **Phone:** [+91 7877964348](tel:+917877964348)
+Email: [anilsaini978571@gmail.com]
 
