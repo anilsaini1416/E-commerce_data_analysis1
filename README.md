@@ -34,7 +34,8 @@ Which categories (like Clothing or Electronics) have the most sales.
 Monthly profit trends (to see which months are the busiest).
 A map of sales across different states and cities.
 
-<img width="1720" height="838" alt="Screenshot 2026-03-24 103823" src="https://github.com/user-attachments/assets/057ce6a6-3851-43dc-81e0-b26defa5af64" />
+<img width="1222" height="837" alt="Screenshot 2026-03-27 125549" src="https://github.com/user-attachments/assets/5d97f455-e667-4320-b872-46dd01c7237f" />
+
 
 [**Download Power BI Dashboard (.pbix)**](https://github.com/anilsaini1416/E-commerce_data_analysis1/blob/main/e-commerce_data_analysis_deshboard.pbix)
 
